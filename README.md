@@ -4,3 +4,6 @@ Bu proje, HTML5, CSS ve JavaScript kullanılarak oluşturulmuş basit bir web ta
 * Oynat ve duraklat kontrolleri
 * Karıştırma işlevselliği
 * Dinamik şarkı yükleme özelliğine sahip çalma listesi
+
+
+https://iremsspofity.netlify.app
